@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: challaprathyusha
+data:
+  course: "DevOps with AWS"
+  trainer: "prathyusha"
+  github: "https://github.com/challaprathyusha/k8-eksctl"
